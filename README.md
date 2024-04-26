@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-Olá! Eu sou a Codevara, a mascote oficial da linguagem de programação POG, onde o código encontra a cultura brasileira. Nascida nas margens tranquilas de um lago no coração do Brasil, descobri minha paixão pela tecnologia enquanto navegava pelos rios da internet. Agora, estou aqui para ajudar programadores de todos os níveis a mergulhar no mundo da programação com comandos totalmente em português.
+Olá! Eu sou a Codevara, a mascote oficial da linguagem de programação POG, onde o código encontra a cultura lusófona. Nascida nas margens tranquilas de um lago no coração do Brasil, descobri minha paixão pela tecnologia enquanto navegava pelos rios da internet. Agora, estou aqui para ajudar programadores de todos os níveis a mergulhar no mundo da programação com comandos totalmente em português.
 
 <!--
 **CodevaraBR/CodevaraBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
